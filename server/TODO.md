@@ -1,0 +1,3 @@
+- [ ] Add 12 new blog posts to seed.js (3 per category: Technology, Travel, Lifestyle, Food)
+- [ ] Include featuredImage for each new post to ensure images appear
+- [ ] Run the seeder to populate the database with new posts
